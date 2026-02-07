@@ -317,14 +317,10 @@ This is a portfolio project, but suggestions for improvements are welcome! Feel 
 
 ## 📧 Contact
 
-**Your Name**  
-Email: your.email@example.com  
-LinkedIn: [Your LinkedIn Profile]  
-Portfolio: [Your Portfolio Website]
+**Vuppala Yashwanth**  
+Email: yashwanthvuppala123@gmail.com  
+FOR ANY ENQUIRIES GET IN TOUCH WITH ME THROUGH GMAIL.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
